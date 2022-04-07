@@ -1,6 +1,6 @@
-# Getting Started with Pricing app with tailwind
+# Getting Started with Pricing App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was Tailwind with [Package pricing App](https://package-pricing-site.netlify.app/).
 
 ## Available Scripts
 
@@ -22,4 +22,4 @@ It correctly bundles React in production mode and optimizes the build for the be
 The build is minified and the filenames include the hashes.\
 Your app is ready to be deployed!
 
-See the section about [deployment](https://pakage-pricing-site.netlify.app/) for more information.
+See the section about [deployment](https://package-pricing-site.netlify.app/) for more information.
